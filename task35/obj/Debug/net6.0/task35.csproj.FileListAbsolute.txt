@@ -1,0 +1,15 @@
+E:\Разработчик ГБ\C#\homework_5\task35\bin\Debug\net6.0\task35.exe
+E:\Разработчик ГБ\C#\homework_5\task35\bin\Debug\net6.0\task35.deps.json
+E:\Разработчик ГБ\C#\homework_5\task35\bin\Debug\net6.0\task35.runtimeconfig.json
+E:\Разработчик ГБ\C#\homework_5\task35\bin\Debug\net6.0\task35.dll
+E:\Разработчик ГБ\C#\homework_5\task35\bin\Debug\net6.0\task35.pdb
+E:\Разработчик ГБ\C#\homework_5\task35\obj\Debug\net6.0\task35.csproj.AssemblyReference.cache
+E:\Разработчик ГБ\C#\homework_5\task35\obj\Debug\net6.0\task35.GeneratedMSBuildEditorConfig.editorconfig
+E:\Разработчик ГБ\C#\homework_5\task35\obj\Debug\net6.0\task35.AssemblyInfoInputs.cache
+E:\Разработчик ГБ\C#\homework_5\task35\obj\Debug\net6.0\task35.AssemblyInfo.cs
+E:\Разработчик ГБ\C#\homework_5\task35\obj\Debug\net6.0\task35.csproj.CoreCompileInputs.cache
+E:\Разработчик ГБ\C#\homework_5\task35\obj\Debug\net6.0\task35.dll
+E:\Разработчик ГБ\C#\homework_5\task35\obj\Debug\net6.0\refint\task35.dll
+E:\Разработчик ГБ\C#\homework_5\task35\obj\Debug\net6.0\task35.pdb
+E:\Разработчик ГБ\C#\homework_5\task35\obj\Debug\net6.0\task35.genruntimeconfig.cache
+E:\Разработчик ГБ\C#\homework_5\task35\obj\Debug\net6.0\ref\task35.dll
